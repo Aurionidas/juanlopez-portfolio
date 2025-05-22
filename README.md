@@ -1,12 +1,15 @@
 # Juan David López – Data Analysis Portfolio
 
 Welcome to my data analysis portfolio!  
-Here you’ll find a collection of projects I’ve built using Python, Plotly, Excel, and other tools. Each project includes code, visualizations, and detailed explanations.
+Here you’ll find a collection of projects where I apply Python, Plotly, Excel, and other tools to explore, analyze, and present data. Each project includes source code, visualizations, and detailed explanations to showcase my technical skills and problem-solving approach.
 
-## Projects
+## 📁 Projects
 
-- 📊 [Titanic Survival Analysis with Plotly]([https://github.com/tuusuario/titanic-analysis-python-plotly](https://github.com/Aurionidas/titanic-analysis-python-plotly))  
-  Exploratory data analysis of the Titanic dataset using interactive Plotly graphs.
+- 📊 [Titanic Survival Analysis with Plotly](https://github.com/Aurionidas/titanic-analysis-python-plotly)  
+  An interactive exploratory data analysis of the Titanic dataset using Plotly. Includes data cleaning, visual exploration, and survival pattern insights based on gender, class, and fare.
 
-(More projects coming soon...)
+- 🔢 [Numerical Methods in Python](https://github.com/Aurionidas/numerical-methods-python)  
+  A collection of algorithm implementations using Python to solve numerical problems in scientific computing. Includes root-finding methods, interpolation, integration, and differential equations.
+
+> *(More projects coming soon...)*
 
