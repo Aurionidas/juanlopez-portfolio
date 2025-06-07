@@ -11,5 +11,7 @@ Here you’ll find a collection of projects where I apply Python, Plotly, Excel,
 - 🔢 [Numerical Methods in Python](https://github.com/Aurionidas/numerical-methods-python)  
   A collection of algorithm implementations using Python to solve numerical problems in scientific computing. Includes root-finding methods, interpolation, integration, and differential equations.
 
+- I created a simple Landing page for this repository with basic HTML and CSS. You can take a look at it [here](https://aurionidas.github.io/Portfolio-Demo/)
+
 > *(More projects coming soon...)*
 
