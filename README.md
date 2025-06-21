@@ -12,7 +12,7 @@ Here you’ll find a collection of projects where I apply Python, Plotly, Excel,
   A collection of algorithm implementations using Python to solve numerical problems in scientific computing. Includes root-finding methods, interpolation, integration, and differential equations.
 
 - 📚 [Python projects](https://github.com/Aurionidas/Python-projects)
-  A collection of projects that are going to be added during my learning process of some more specific habilities, like API consumption, web Scraping or ever tensors and neural networks
+  A collection of projects that are going to be added during my learning process of some more specific habilities, like API consumption, web Scraping or even tensors and neural networks
 
 - 🧠 [Automation Projects](https://github.com/Aurionidas/Automations)
   A series of personal projects including different automations with various tools and AI.
